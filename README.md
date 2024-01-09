@@ -4,7 +4,7 @@ dflowd is the CLI and validator binary for the DFlow network. It is based on the
 
 ## Installation
 
-Releases are available on the [releases page](https://github.com/DFlowProtocol/dflowd-releases/releases/latest). Download the binary for your platform, untar, and move the binary to your path.
+Releases are available on the [releases page](https://github.com/OrderFlowGroup/dflowd-releases/releases/latest). Download the binary for your platform, untar, and move the binary to your path.
 
 ## Usage
 ```bash
